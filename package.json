@@ -1,0 +1,22 @@
+{
+    "name": "stark-alternative",
+    "displayName": "Stark Alternative",
+    "description": "An alternative to the Stark theme",
+    "version": "0.0.1",
+    "publisher": "senor-cojones",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stark Alternative",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stark Alternative-color-theme.json"
+            }
+        ]
+    }
+}
